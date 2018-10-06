@@ -1,0 +1,14 @@
+{
+  "name": "spotify-dj-planner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "csv-export": "^1.0.2",
+    "dotenv": "^6.0.0",
+    "spotify-web-api-node": "^4.0.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT"
+}
